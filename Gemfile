@@ -1,5 +1,9 @@
 source "https://rubygems.org"
 
-gem 'rake'
-gem 'rspec'
 gem 'faker'
+
+group :development, :test do
+  gem 'rake'
+  gem 'rspec'
+  gem 'rubocop'
+end
