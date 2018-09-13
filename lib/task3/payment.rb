@@ -28,13 +28,13 @@ module Task3
     # information required to create a payment: amount, user email, user
     # address; method should return vendor id which can be used with
     # #find_by_vendor_id to find the payment
-    def self.make(order)
+    def self.make(_order)
       raise NotImplementedError
     end
 
     # Method should return a concrete vendor Payment instance and should be
     # used on checkout completion page
-    def self.find_by_vendor_id(id)
+    def self.find_by_vendor_id(_id)
       raise NotImplementedError
     end
 
