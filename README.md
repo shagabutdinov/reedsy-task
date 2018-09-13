@@ -4,8 +4,8 @@ Reedsy Job Application
 Task description
 ----------------
 
-[task.md](task.md)
-[Task in the original repository](https://github.com/reedsy/challenges/blob/master/ruby-on-rails-engineer.md)
+* [Copy of task in this repository](task.md)
+* [Task in the original repository](https://github.com/reedsy/challenges/blob/master/ruby-on-rails-engineer.md)
 
 Question 1
 ----------
