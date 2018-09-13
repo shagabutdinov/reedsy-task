@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/task2'
+
+Task2::App.new.run
