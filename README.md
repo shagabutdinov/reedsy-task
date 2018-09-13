@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/shagabutdinov/reedsy-task.svg?branch=master)](https://travis-ci.com/shagabutdinov/reedsy-task)
+
 Reedsy Job Application
 ======================
 
